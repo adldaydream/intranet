@@ -22,6 +22,10 @@ function displaySchedule(events) {
     timeDiv.classList.add('time');
     timeDiv.textContent = e.time;
 
+    const timeDiv = document.createElement('div');
+    timeDiv.classList.add('room');
+    timeDiv.textContent = e.room;
+
     const detailsDiv = document.createElement('div');
     detailsDiv.classList.add('details');
     detailsDiv.textContent = e.event;

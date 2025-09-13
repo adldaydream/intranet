@@ -747,7 +747,7 @@ async function loadSchedule() {
 
     upcomingEvents.forEach(item => {
       const li = document.createElement('li');
-      li.textContent = `${item.time} - ${item.event}`;
+      li.textContent = `${item.time} - ${item.event} -${item.room}`;
       list.appendChild(li);
     });
 
