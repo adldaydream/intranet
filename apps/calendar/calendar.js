@@ -1,4 +1,3 @@
-// ...existing code from script.js...
 async function loadSchedule() {
   try {
     const response = await fetch('/schedule.json'); // Root file
@@ -22,15 +21,16 @@ function displaySchedule(events) {
     timeDiv.classList.add('time');
     timeDiv.textContent = e.time;
 
-    const timeDiv = document.createElement('div');
-    timeDiv.classList.add('room');
-    timeDiv.textContent = e.room;
+    const roomDiv = document.createElement('div');
+    roomDiv.classList.add('room');
+    roomDiv.textContent = e.room;
 
     const detailsDiv = document.createElement('div');
     detailsDiv.classList.add('details');
     detailsDiv.textContent = e.event;
 
     eventDiv.appendChild(timeDiv);
+    eventDiv.appendChild(roomDiv);
     eventDiv.appendChild(detailsDiv);
     scheduleDiv.appendChild(eventDiv);
   });
