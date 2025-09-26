@@ -1,63 +1,101 @@
 [
-  { "time": "08:30 AM Saturday", "event": "Setup (Posters, A/V, breakfast, music, do not enter signs)", "room": "Main Area" },
+  { "time": "08:30 AM Saturday", "event": "Setup (Posters, A/V equipment, breakfast, music, do not enter signs)", "room": "Main Area" },
   { "time": "08:30 AM Saturday", "event": "Setup (Oli)", "room": "Room 1" },
+  { "time": "08:30 AM Saturday", "event": "Hacking", "room": "Room 2" },
 
   { "time": "09:40 AM Saturday", "event": "First participant arrives – give them t-shirt and badge", "room": "Main Area" },
 
   { "time": "10:00 AM Saturday", "event": "Participants start arriving + breakfast", "room": "Main Area" },
-  { "time": "10:00 AM Saturday", "event": "Check-in (Hayden & Oli)", "room": "Room 1" },
-  { "time": "10:00 AM Saturday", "event": "Opening slides prep + keynote speaker arrives (Ben)", "room": "Room 2" },
+  { "time": "10:00 AM Saturday", "event": "Check-in (Hayden & Oli) – give t-shirts and badges", "room": "Room 1" },
+  { "time": "10:00 AM Saturday", "event": "Opening slides prep (Ben)", "room": "Room 2" },
 
   { "time": "10:30 AM Saturday", "event": "Opening Ceremony", "room": "Main Area" },
 
   { "time": "11:00 AM Saturday", "event": "Hacking begins", "room": "Main Area" },
   { "time": "11:00 AM Saturday", "event": "Mentors walk around and listen to teams (Hayden + mentors)", "room": "Room 1" },
   { "time": "11:00 AM Saturday", "event": "Team formation game (Oli + Lauren)", "room": "Room 2" },
-  { "time": "11:00 AM Saturday", "event": "Setup Jumpstart workshop", "room": "Room 3" },
 
-  { "time": "11:30 AM Saturday", "event": "Setup Jumpstart workshop (Oli)", "room": "Room 3" },
-  { "time": "11:30 AM Saturday", "event": "Hacking", "room": "Room 2" },
+  { "time": "11:30 AM Saturday", "event": "Jumpstart Workshop (Oli)", "room": "Room 2" },
 
-  { "time": "12:00 PM Saturday", "event": "Setup GitHub workshop (Ben)", "room": "Room 2" },
+  { "time": "12:00 PM Saturday", "event": "Setup GitHub Workshop (Ben)", "room": "Room 2" },
 
   { "time": "12:30 PM Saturday", "event": "Setup Lunch", "room": "Main Area" },
-  { "time": "12:30 PM Saturday", "event": "GitHub Workshop (Ben)", "room": "Room 1" },
+  { "time": "12:30 PM Saturday", "event": "Mentors + staff help people", "room": "Room 1" },
 
   { "time": "01:00 PM Saturday", "event": "Lunch (No eating in classrooms)", "room": "Main Area" },
   { "time": "01:00 PM Saturday", "event": "No eating in classrooms", "room": "Room 1" },
   { "time": "01:00 PM Saturday", "event": "No eating in classrooms", "room": "Room 2" },
-  { "time": "01:00 PM Saturday", "event": "Lunch", "room": "Room 3" },
 
-  { "time": "02:00 PM Saturday", "event": "Hacking", "room": "Main Area" },
-  { "time": "02:00 PM Saturday", "event": "Mentors walk around and help teams, Kristen takes photos", "room": "Room 1" },
+  { "time": "02:00 PM Saturday", "event": "Hacking (Ben takes photos)", "room": "Main Area" },
+  { "time": "02:00 PM Saturday", "event": "Mentors + staff help teams", "room": "Room 1" },
   { "time": "02:00 PM Saturday", "event": "Hacking", "room": "Room 2" },
-  { "time": "02:00 PM Saturday", "event": "Setup Jumpstart workshop (Oli)", "room": "Room 3" },
 
-  { "time": "02:30 PM Saturday", "event": "Mentors walk around and help teams", "room": "Room 1" },
-
-  { "time": "03:00 PM Saturday", "event": "Workshop C", "room": "Room 2" },
+  { "time": "03:00 PM Saturday", "event": "Setup GitHub Campus Expert Talk", "room": "Room 2" },
 
   { "time": "03:30 PM Saturday", "event": "Mentors help teams, Oli & Lauren prep surprise event", "room": "Room 1" },
-  { "time": "03:30 PM Saturday", "event": "Workshop C", "room": "Room 3" },
+  { "time": "03:30 PM Saturday", "event": "GitHub Campus Expert Talk", "room": "Room 2" },
 
   { "time": "04:00 PM Saturday", "event": "Surprise Event (Oli + Lauren)", "room": "Main Area" },
-  { "time": "04:00 PM Saturday", "event": "Hacking", "room": "Room 2" },
+  { "time": "04:00 PM Saturday", "event": "Hacking (mentors help)", "room": "Room 2" },
 
   { "time": "04:30 PM Saturday", "event": "Hacking", "room": "Main Area" },
-  { "time": "04:30 PM Saturday", "event": "Setup Mini-Dinner (Subway)", "room": "Room 1" },
+  { "time": "04:30 PM Saturday", "event": "Setup Mini-Dinner (Dominos)", "room": "Room 1" },
 
   { "time": "05:00 PM Saturday", "event": "Mini Dinner (No eating in classrooms)", "room": "Main Area" },
   { "time": "05:00 PM Saturday", "event": "No eating in classrooms", "room": "Room 1" },
   { "time": "05:00 PM Saturday", "event": "No eating in classrooms", "room": "Room 2" },
-  { "time": "05:00 PM Saturday", "event": "Mini Dinner", "room": "Room 3" },
 
   { "time": "05:30 PM Saturday", "event": "Hacking", "room": "Main Area" },
-  { "time": "05:30 PM Saturday", "event": "Hacking (mentors help people)", "room": "Room 1" },
-  { "time": "05:30 PM Saturday", "event": "Hacking (mentors help people)", "room": "Room 2" },
-  { "time": "05:30 PM Saturday", "event": "Hacking (mentors help people)", "room": "Room 3" },
+  { "time": "05:30 PM Saturday", "event": "KAPLAY Workshop (Ben)", "room": "Room 2" },
 
-  { "time": "06:00 PM Saturday", "event": "Participants leave + Clean-up", "room": "Main Area" },
+  { "time": "06:00 PM Saturday", "event": "Clean-up", "room": "Main Area" },
   { "time": "06:00 PM Saturday", "event": "Clean-up", "room": "Room 1" },
   { "time": "06:00 PM Saturday", "event": "Clean-up", "room": "Room 2" },
-  { "time": "06:00 PM Saturday", "event": "Clean-up", "room": "Room 3" }
+
+  { "time": "08:00 PM Saturday", "event": "Sleep / Code", "room": "Main Area" },
+  { "time": "08:00 PM Saturday", "event": "Sleep / Code", "room": "Room 1" },
+  { "time": "08:00 PM Saturday", "event": "Sleep / Code", "room": "Room 2" },
+
+  { "time": "08:30 AM Sunday", "event": "Setup (A/V equipment, breakfast, music)", "room": "Main Area" },
+  { "time": "09:00 AM Sunday", "event": "Breakfast", "room": "Main Area" },
+  { "time": "09:00 AM Sunday", "event": "Breakfast", "room": "Room 1" },
+  { "time": "09:00 AM Sunday", "event": "Breakfast", "room": "Room 2" },
+
+  { "time": "09:30 AM Sunday", "event": "Sunday Morning Check-in (slides – Ben)", "room": "Main Area" },
+
+  { "time": "10:00 AM Sunday", "event": "Hacking", "room": "Main Area" },
+  { "time": "10:00 AM Sunday", "event": "Mentors + staff help people", "room": "Room 1" },
+  { "time": "10:00 AM Sunday", "event": "Hacking", "room": "Room 2" },
+
+  { "time": "11:00 AM Sunday", "event": "Project Submission Masterclass (Hayden)", "room": "Room 2" },
+
+  { "time": "12:00 PM Sunday", "event": "Setup Pizza for Lunch", "room": "Main Area" },
+
+  { "time": "12:30 PM Sunday", "event": "Lunch (No eating in classrooms)", "room": "Main Area" },
+  { "time": "12:30 PM Sunday", "event": "No eating in classrooms", "room": "Room 1" },
+  { "time": "12:30 PM Sunday", "event": "No eating in classrooms", "room": "Room 2" },
+
+  { "time": "01:00 PM Sunday", "event": "Submissions open – people get ready for demos", "room": "Main Area" },
+  { "time": "01:00 PM Sunday", "event": "Mentors + staff help people", "room": "Room 1" },
+  { "time": "01:00 PM Sunday", "event": "Surprise Game #2 (Ben)", "room": "Room 2" },
+
+  { "time": "02:00 PM Sunday", "event": "Projects Due", "room": "Main Area" },
+  { "time": "02:00 PM Sunday", "event": "Projects Due", "room": "Room 1" },
+  { "time": "02:00 PM Sunday", "event": "Projects Due", "room": "Room 2" },
+
+  { "time": "02:30 PM Sunday", "event": "Group A demos + Group B votes", "room": "Main Area" },
+  { "time": "02:30 PM Sunday", "event": "Group A demos + Group B votes", "room": "Room 1" },
+  { "time": "02:30 PM Sunday", "event": "Mentors walk around and watch demos", "room": "Room 2" },
+
+  { "time": "03:30 PM Sunday", "event": "Group B demos + Group A votes", "room": "Main Area" },
+  { "time": "03:30 PM Sunday", "event": "Group B demos + Group A votes", "room": "Room 1" },
+  { "time": "03:30 PM Sunday", "event": "Group B demos + Group A votes", "room": "Room 2" },
+
+  { "time": "04:30 PM Sunday", "event": "Closing Ceremony", "room": "Main Area" },
+  { "time": "04:30 PM Sunday", "event": "Closing Ceremony", "room": "Room 1" },
+  { "time": "04:30 PM Sunday", "event": "Closing Ceremony", "room": "Room 2" },
+
+  { "time": "05:00 PM Sunday", "event": "Participants leave + Clean-up", "room": "Main Area" },
+  { "time": "05:00 PM Sunday", "event": "Clean-up", "room": "Room 1" },
+  { "time": "05:00 PM Sunday", "event": "Clean-up", "room": "Room 2" }
 ]
